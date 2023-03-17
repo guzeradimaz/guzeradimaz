@@ -52,6 +52,10 @@
     <img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--LS4X9NFz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png">
   </a>
    &nbsp;&nbsp;
+  <a href="https://firebase.google.com/">
+    <img height="30" src="https://www.gstatic.com/devrel-devsite/prod/v05e7bfbff49f105125b8b594f3a652493da8c30b69bf85fd5d75c6ab4f13a57e/firebase/images/lockup.svg">
+  </a>
+   &nbsp;&nbsp;
   <a href="https://docs.swmansion.com/react-native-reanimated/">
     <img height="30" src="https://user-images.githubusercontent.com/71637814/221989280-44575d34-4c0d-49ad-8ab6-7f8a752d3409.png">
   </a>
