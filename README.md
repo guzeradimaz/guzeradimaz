@@ -65,7 +65,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://angular.io/">
-    <img height="30" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
   </a>
   &nbsp;&nbsp;
   <a href="https://axios-http.com/ru/">
