@@ -64,6 +64,10 @@
     <img height="30" src="https://sass-scss.ru/assets/img/logos/logo-b6e1ef6e.svg">
   </a>
   &nbsp;&nbsp;
+  <a href="https://angular.io/">
+    <img height="30" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://axios-http.com/ru/">
     <img height="30" src="https://axios-http.com/assets/logo.svg" >
   </a>
